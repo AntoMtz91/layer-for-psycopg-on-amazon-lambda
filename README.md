@@ -1,4 +1,4 @@
-# layer-for-psycopg-on-amazon-lamnda
+# layer-for-psycopg-on-amazon-lambda
 This connector resolve bug: No module named 'psycopg2._psycopg': ModuleNotFoundError for lamda aws
 1. Download.
 2. Create a new layer.
