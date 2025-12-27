@@ -7,4 +7,4 @@ This connector resolve bug: No module named 'psycopg2._psycopg': ModuleNotFoundE
 4. Upload zip
 5. Set python 3.11.
 6. Save.
-7. Add to lamda that use psycopg connector.
+7. Add to lambda that use psycopg connector.
